@@ -1,0 +1,41 @@
+
+/* Style the main container */
+.WordCharCounterApp {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  /* Style the textarea */
+  textarea {
+    width: 25%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the counters */
+  div span {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Style the character limit input */
+  #char-limit-input {
+    width: 50px;
+  }
+  
+  /* Style the font size input */
+  #fontSize-input {
+    width: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+  }
+  
+  /* Style the labels */
+  label {
+    font-weight: bold;
+    margin-right: 10px;
+    margin-bottom: 10px; 
+  }
+  
